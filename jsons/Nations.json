@@ -54,8 +54,8 @@
         },
         {
                 "name": "Esperanto",
-                "leaderName": "!",
-		"adjective": ["Esperanto"],
+                "leaderName": "Lazaro Ludoviko Zamenhof",
+		"adjective": ["Esperantist"],
 		"preferredVictoryType": "Scientific",
                 "declaringWar": "The world will be more beautiful without you. Prepare for war.",
 		"attacked": "Fool! You will soon regret dearly! I swear it!",
