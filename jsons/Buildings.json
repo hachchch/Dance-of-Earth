@@ -31,7 +31,7 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Construction"
                 "replaces": "Colosseum",
-                "uniquesTo": "Forestaan",
+                "uniqueTo": "Forestaan",
                 "uniques": ["[+4 Food] [in this city]","[2] population [in this city]"],
         },
 ]
