@@ -1,5 +1,32 @@
 [
         {
-                "name": "",
-        }
+                "name": "Language Research Lab",
+                "uniqueTo": "Esperanto",
+                "science": 4,
+                "replaces": "Research Lab",
+                "percentStatBonus": {"science": 50},
+                "cost": 500,
+                "uniques": ["[+50]% [Culture] [in this city] <after discovering [Globalization]>","Free Social Policy"],
+                "requiredTech": "Plastics",
+        },
+        {
+                "name": "Divine Palace of Diamonds",
+                "replaces": "Palace",
+                "uniqueTo": "Paradimperium",
+                "isNationalWonder": true,
+                "production": 3,
+		"science": 3,
+		"gold": 5,
+		"culture": 1,
+		"cityStrength": 2,
+		"cost": 1,
+                "uniques": ["Indicates the capital city","Free Great Person <for [2] turns>"],
+                "percentStatBonus": {"gold": 15},
+        },
+        {
+                "name": "Living Vegetations",
+                "replaces": "Colosseum",
+                "uniquesTo": "Forestaan",
+                "uniques": ["[+4 Food] [in this city]","[2] population [in this city]"],
+        },
 ]
