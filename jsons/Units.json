@@ -1,5 +1,22 @@
 [
         {
-                "name": "",
-        }
+                "name": "Fairy of Lakes",
+                "uniqueTo": "Paradimperium",
+                "unitType": "Civilian",
+                "replaces": "Worker",
+                "cost": 70,
+                "movement": 2,
+                "replacementTextForUniques": "Double Movement in Flesh Water tiles. Ignores Terrain costs to movement.",
+                "uniques": ["Can build [Land] improvements on tiles","Automation is a primary action","Ignores terrain cost","Double movement in [Fresh Water]","Uncapturable","May travel on Water tiles without embarking"],
+        },
+        {
+                "name": "Forests Fairy",
+                "uniqueTo": "Forestaan",
+                "unitType": "Civilian",
+                "replaces": "Worker",
+                "cost": 100,
+                "movement": 2,
+                "replacementTextForUniques": "Double Movement in Forest tiles. Ignores Terrain costs to movement. Stronger than Workers",
+                "uniques": ["[-25]% tile improvement construction time","Can build [Land] improvements on tiles","Automation is a primary action","Ignores terrain cost","Double movement in [Forest]","Uncapturable","May travel on Water tiles without embarking"],
+        },
 ]
