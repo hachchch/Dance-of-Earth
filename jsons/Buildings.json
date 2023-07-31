@@ -20,7 +20,7 @@
 		"culture": 1,
 		"cityStrength": 2,
 		"cost": 1,
-                "uniques": ["Indicates the capital city","Free Great Person <for [2] turns>"],
+                "uniques": ["Indicates the capital city","Free Great Person"],
                 "percentStatBonus": {"gold": 15},
         },
         {
