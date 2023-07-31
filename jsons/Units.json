@@ -19,4 +19,18 @@
                 "replacementTextForUniques": "Double Movement in Forest tiles. Ignores Terrain costs to movement. Stronger than Workers",
                 "uniques": ["[-25]% tile improvement construction time","Can build [Land] improvements on tiles","Automation is a primary action","Ignores terrain cost","Double movement in [Forest]","Uncapturable","May travel on Water tiles without embarking"],
         },
+        {
+                "name": "Esperantist Infantry",
+                "replaces": "Infantry",
+                "uniqueTo": "Esperanto",
+                "unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 75,
+		"cost": 375,
+		"requiredTech": "Plastics",
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"attackSound": "shot"
+                "uniques": ["[+20]% Strength for enemy [Land] units in adjacent [Friendly Land] tiles","Can carry [3] [Land] units"],
+        },
 ]
