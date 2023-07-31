@@ -8,7 +8,7 @@
                 "cost": 500,
                 "uniques": ["[+50]% [Culture] [in this city] <after discovering [Globalization]>","Free Social Policy"],
                 "requiredTech": "Plastics",
-        },
+	},
         {
                 "name": "Divine Palace of Diamonds",
                 "replaces": "Palace",
